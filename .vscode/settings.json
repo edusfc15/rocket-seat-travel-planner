@@ -1,0 +1,13 @@
+{
+  "workbench.colorTheme": "Abyss",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "[prisma]": {
+    "editor.formatOnSave": true
+  },
+  "editor.defaultFormatter": "vscode.typescript-language-features",
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+}
